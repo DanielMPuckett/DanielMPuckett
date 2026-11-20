@@ -2,7 +2,7 @@
 
 **Software Engineer** based in Florence, AL. I build full-stack products and AI-powered systems, from agentic pipelines to production recommendation engines.
 
-I'm a Software Engineer at **QuantHub**, an ed-tech company, where I ship full-stack features in Laravel, Ruby on Rails, and Python on AWS. I graduated from the **University of North Alabama** (B.S. Computer Science, Dec 2025), where I led student AI research and co-authored a paper that won **Best Student Paper at SOBIE 2025**.
+I'm a Software Engineer most recently working at **QuantHub**, an ed-tech company, where I ship full-stack features in Laravel, Ruby on Rails, and Python on AWS. I graduated from the **University of North Alabama** (B.S. Computer Science, Dec 2025), where I led student AI research and co-authored a paper that won **Best Student Paper at SOBIE 2025**.
 
 ---
 
@@ -11,7 +11,7 @@ I'm a Software Engineer at **QuantHub**, an ed-tech company, where I ship full-s
 ### [Loopd](https://social.loopd.pro): cross-domain media recommendations
 One recommendation platform for **movies, TV, books, music, and video games**, instead of a separate silo for each.
 
-- Production app in **Node.js**, with model creation, training, and maintenance in **Python**
+- Production app in **Laravel**, with model creation, training, and maintenance in **Python**
 - A modified **two-tower** vector model that generates recommendations through a distance-based algorithm
 - **86.43% hit rate @ 10** and **93.18% hit rate @ 20**
 
